@@ -1,0 +1,10 @@
+/* custom syle sheet */
+.area{
+	border: solid 1px #ababab;
+	min-height: 400px;
+}
+.newbutton{
+	padding:10px 30px;
+	font-size: 16px; 
+	text-align: center;
+}
